@@ -9,7 +9,7 @@ sudo pacman -S --needed --noconfirm base{,-devel} linux{-firmware,-zen{,-headers
 sudo pacman -S --needed docker elixir code codeblocks dotnet-runtime dotnet-sdk erlang jdk11-openjdk jre11-openjdk jre11-openjdk-headless jre17-openjdk jre17-openjdk-headless jre-openjdk jre-openjdk-headless rustup r python-tensorflow git github-cli gitlab go
 
 #Applications
-drawio-desktop-bin blender anki-bin chromium czkawka-gui-bin discord frei0r-plugins inkscape kdeconnect kdenlive keepassxc krita libreoffice-still librewolf-bin obsidian pomotroid-bin qbittorrent spotify stellarium teamviewer telegram-desktop thunderbird obs-studio gimp gucharmap vlc xpad zathura zathura-cb zathura-djvu zathura-pdf-mupdf zathura-ps zoom zenity
+drawio-desktop-bin blender anki-bin chromium czkawka-gui-bin discord frei0r-plugins inkscape kdeconnect kdenlive keepassxc krita libreoffice-still librewolf-bin obsidian pomotroid-bin qbittorrent-qt5 spotify stellarium teamviewer telegram-desktop thunderbird obs-studio gimp gucharmap vlc xpad zathura zathura-cb zathura-djvu zathura-pdf-mupdf zathura-ps zoom zenity
 
 #Shells
 bash zsh dash
@@ -48,7 +48,7 @@ fcitx5 fcitx5-configtool fcitx5-gtk fcitx5-mozc fcitx5-nord fcitx5-qt
 osu-lazer-bin steam spacecadetpinball-git dwardfortress openttd openttd-opengfx openttd-openmsx openttd-opensfx minecraft-launcher retroarch retroarch-assets-ozone retroarch-assets-xmb
 
 #Terminal Utils
-calcurse flex refind lxsession gnome-keyring ueberzug waifu2x-ncnn-vulkan-bin mkinitcpio-firmware make libtool linux-firmware mupdf-tools jq ffmpeg ffmpegthumbnailer patch patchutils gettext gcc fakeroot fbida fbv ytfzf xz yay-git yt-dlp zip xfsprogs ufw tree tlp shellcheck schedtool rsync scrcpy screen sed sudo syncthing tmux toilet units unrar unzip util-linux vim vim-latexsuite wget which xdg-desktop-portal-gnome xdg-user-dirs rclone ranger pkgconf perl-image-exiftool pandoc parted pfetch polkit qt5-tools neofetch meson man-db m4 most neomut neovim newsboat ngrep nmap openssh cronie fdisk figlet file findutils fzf gawk gpart gparted gperftools grep groff gzip htmldoc htop hwinfo iftop imagemagick ipinfo-cli irssi less lm_sensors lolcat e2fsprogs dosfstools dmidecode acpid android-tools arch-install-scripts aria2 asp autoconf automake base bat bc binutils bison btop btrfs-progs byobu cmake colordiff crictl critest curl dialog pdftk parallel pacman-contrib
+calcurse flex refind lxsession gnome-keyring ueberzug waifu2x-ncnn-vulkan-bin mkinitcpio-firmware make libtool linux-firmware mupdf-tools jq ffmpeg ffmpegthumbnailer patch patchutils gettext gcc fakeroot fbida fbv ytfzf xz yay-git yt-dlp zip xfsprogs ufw tree tlp shellcheck schedtool rsync scrcpy screen sed sudo syncthing tmux toilet units unrar unzip util-linux vim vim-latexsuite wget which xdg-desktop-portal-gnome xdg-user-dirs rclone ranger pkgconf perl-image-exiftool pandoc parted pfetch polkit qt5-tools neofetch meson man-db m4 most neomut neovim newsboat ngrep nmap openssh cronie fdisk figlet file findutils fzf gawk gpart gparted gperftools grep groff gzip htmldoc htop hwinfo iftop imagemagick ipinfo-cli irssi less lm_sensors lolcat e2fsprogs dosfstools dmidecode acpid android-tools arch-install-scripts aria2 asp autoconf automake base bat bc binutils bison btop btrfs-progs byobu cmake colordiff crictl critest curl dialog pdftk parallel pacman-contrib exfat-utils
 
 #Audio
 mpd mpv ncmpcpp gstreamer gstreamer-vaapi wireplumber wireplumber-docs qjackctl qpwgraph pavucontrol helvum pipewire pipewire-alsa pipewire-docs pipewire-jack pipewire-pulse audacity alsa-utils cava  
